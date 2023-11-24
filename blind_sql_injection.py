@@ -23,7 +23,7 @@ headers = {
     "Accept-Encoding": "gzip, deflate"
 }
 # Iterate over each character position of the password
-for i in range(1, 100):
+for i in range(1, 21):
     for c in ch:
         # Update cookies for each request
         cookies = {
