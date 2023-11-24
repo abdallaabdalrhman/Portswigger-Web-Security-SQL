@@ -1,6 +1,8 @@
 import requests
 import string
 
+# Author : 0x2nac0nda
+
 # Character set to test for each password character
 ch = string.ascii_letters + string.digits
 
