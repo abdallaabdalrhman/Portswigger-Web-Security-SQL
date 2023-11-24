@@ -1,6 +1,8 @@
 import requests
 import string
 
+# Author : 0x2nac0nda
+
 # Character set including lowercase, uppercase letters, and digits
 base = string.ascii_lowercase + string.ascii_uppercase + string.digits
 
